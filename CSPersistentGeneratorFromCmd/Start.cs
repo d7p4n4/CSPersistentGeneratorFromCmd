@@ -20,7 +20,7 @@ namespace CSPersistentGeneratorFromCmd
         static void Main(string[] args)
         {
 
-            //Date: 2019. 11. 09. 15:59
+            //Date: 2019. 11. 09. 18:25
             Boolean enoughArgs = false;
             try
             {
